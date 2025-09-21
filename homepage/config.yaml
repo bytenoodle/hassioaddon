@@ -1,0 +1,18 @@
+name: Homepage
+version: "1.0.1"
+slug: homepage
+description: "A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery."
+url: https://github.com/bytenoodle/hassioaddon
+arch:
+  - amd64
+  - aarch64
+map:
+  - addon_config:rw
+environment:
+  HOMEPAGE_ALLOWED_HOSTS: "*"
+ports:
+  3000/tcp: 3000
+ports_description:
+  3000/tcp: "Web interface port, default is 3000."
+panel_icon: "mdi:broadcast"
+webui: "http://[HOST]:[PORT:3000]"
