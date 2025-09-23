@@ -4,8 +4,8 @@
 
 - Bumped Homepage version to: 1.5.0
 - config.yaml:
-  - Bumped addon version number.
-- Changed version to 1.5.0 instead of 1.2.0 so its in line with latest homepage versions.
+  - Bumped add-on version number.
+- Changed add-on version to 1.5.0 instead of 1.2.0 so its in line with latest homepage versions.
 
 ## [1.1.0] - 2025-09-21
 
