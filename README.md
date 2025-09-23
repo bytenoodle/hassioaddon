@@ -12,9 +12,8 @@ https://github.com/bytenoodle/hassioaddon
 
 ## Add-ons
 
-This repository contains the following add-ons
+This repository contains the following add-ons:
 
--------------------------------
 
 ### [-Homepage-][addon-Homepage]
 
