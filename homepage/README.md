@@ -18,7 +18,7 @@ This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/getho
    - Future versions of this add-on may allow dynamic configuration of HOMEPAGE_ALLOWED_HOSTS via the add-on options to improve security for advanced setups.
    - More info here: https://gethomepage.dev/installation/#homepage_allowed_hosts
 2. If you need to use /var/run/docker.sock (optional, for Docker integrations), make sure Protection Mode is disabled for this addon.
-   - More info here about /var/run/docker.sock: https://gethomepage.dev/installation/docker/
+   - More info here about /var/run/docker.sock: https://gethomepage.dev/installation/#homepage_allowed_hosts
 
 
 ## Installation
