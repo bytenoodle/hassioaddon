@@ -22,12 +22,12 @@ This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/getho
    - since its not possible to mount `/app/public/icons` in haos to be used with homepage here is a workaround and easier to use.
    - Make a map in `/config/www/` [example: `/config/www/homepage/icons or/and /config/www/homepage/images`]
    - Directory example for custom Homepage assets:
-     
+     ```
        /config/www/homepage/
        ├─ icons/         ← place bookmark icons here
        ├─ images/        ← place other custom images here
        └─ backgrounds/   ← place background images here
-
+     ```
        Reference files in your homepage YAML using full HA URLs:
        `http://iphaos:porthaos/local/homepage/icons/example.ico (example url: http://192.168.254.212:8123/local/homepage/icons/sonarr.ico`
    - Example for bookmarks.yaml:
