@@ -37,6 +37,11 @@ This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/getho
         description: Series management
   - More info about icons/images/backgrounds here: https://gethomepage.dev/configs/services/#icons and https://gethomepage.dev/configs/settings/#background-image
 
+4. Version numbering:
+   - Using **Vx.x.x.x** format.
+   - The first 3 numbers follow the official Homepage version (e.g. `1.5.0`).
+   - The last number is for changes within this Home Assistant add-on (e.g. `1.5.0.1`).
+
 ## Known issues
 - None so far.
 
