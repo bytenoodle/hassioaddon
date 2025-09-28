@@ -5,27 +5,46 @@
 ![Supports amd64 Architecture][amd64-shield]
 
 ## About
-This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/gethomepage/homepage/).
-
-## Known issues
-- None so far.
+This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/gethomepage/homepage/) - [gethomepage.dev](https://gethomepage.dev).
 
 ## Notes
 1. HOMEPAGE_ALLOWED_HOSTS
    - By default, this add-on uses a wildcard (*) for HOMEPAGE_ALLOWED_HOSTS.
    - This is safe for typical Home Assistant setups because the add-on runs locally in an isolated container and is not directly exposed to the Internet.
    - Security note: If you ever expose this container to external networks, using a wildcard may allow unwanted requests. In that case, it’s recommended to specify the allowed host(s) explicitly.
-   - Future versions of this add-on may allow dynamic configuration of HOMEPAGE_ALLOWED_HOSTS via the add-on options to improve security for advanced setups.
    - More info here: https://gethomepage.dev/installation/#homepage_allowed_hosts
+
 2. If you need to use /var/run/docker.sock (optional, for Docker integrations), make sure Protection Mode is disabled for this addon.
    - More info here about /var/run/docker.sock in homepage: https://gethomepage.dev/installation/docker/
 
+3. Custom icons and images
+   - You can use custom icons and images by uploading them with File Browser addon or SFTP.
+   - since its not possible to mount `/app/public/icons` in haos to be used with homepage here is a workaround and easier to use.
+   - Make a map in `/config/www/` [example: `/config/www/homepage/icons or/and /config/www/homepage/images`]
+   - Directory example for custom Homepage assets:
+       /config/www/homepage/
+       ├─ icons/         ← place bookmark icons here
+       ├─ images/        ← place other custom images here
+       └─ backgrounds/   ← place background images here
+
+       Reference files in your homepage YAML using full HA URLs:
+       `http://iphaos:porthaos/local/homepage/icons/example.ico (example url: http://192.168.254.212:8123/local/homepage/icons/sonarr.ico`
+   - Example widgets.yaml:
+     - Group A:
+      - Sonarr:
+        icon: http://192.168.254.212:8123/local/homepage/icons/sonarr.ico
+        href: http://sonarr.host/
+        description: Series management
+  - More info about icons/images/backgrounds here: https://gethomepage.dev/configs/services/#icons and https://gethomepage.dev/configs/settings/#background-image
+
+## Known issues
+- None so far.
 
 ## Installation
 1. [Add my add-ons repository][repository] to your Home Assistant addons.
 2. Install this add-on.
 3. Edit add-on config as needed. At the moment you can only change exposed port, which is 3000 by default.
-4. If you need /var/run/docker.sock see notes above.
+4. If you need /var/run/docker.sock or custom icons/images see notes above.
 5. Start the add-on.
 6. Done, enjoy!
 
