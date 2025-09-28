@@ -1,3 +1,12 @@
+## [1.5.0.1] - 2025-09-22
+
+### Changed
+
+- config.yaml:
+  - Small fix.
+- Updated readme for use of custom icons/images
+- Addon version bumped to 1.5.0.1 (First 3 numbers are the same as homepage version last number are for changes within this addon.)
+
 ## [1.5.0] - 2025-09-22
 
 ### Changed
