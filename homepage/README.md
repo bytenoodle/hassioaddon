@@ -84,7 +84,7 @@ Assets
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 
 
-[version]: https://img.shields.io/badge/version-v1.5.0-blue.svg
+[version]: https://img.shields.io/badge/version-v1.5.0.1-blue.svg
 [production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
 
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
