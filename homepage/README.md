@@ -38,7 +38,7 @@ This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/getho
         href: http://sonarr.host/
         description: Series management
      ```
-  - More info about icons/images/backgrounds here: https://gethomepage.dev/configs/services/#icons and https://gethomepage.dev/configs/settings/#background-image
+   - More info about icons/images/backgrounds here: https://gethomepage.dev/configs/services/#icons and https://gethomepage.dev/configs/settings/#background-image
 
 4. Version numbering:
    - Using **Vx.x.x.x** format.
