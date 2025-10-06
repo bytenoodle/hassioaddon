@@ -31,11 +31,13 @@ This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/getho
        Reference files in your homepage YAML using full HA URLs:
        `http://iphaos:porthaos/local/homepage/icons/example.ico (example url: http://192.168.254.212:8123/local/homepage/icons/sonarr.ico`
    - Example for bookmarks.yaml:
+     ```
      - Group A:
       - Sonarr:
         icon: http://192.168.254.212:8123/local/homepage/icons/sonarr.ico
         href: http://sonarr.host/
         description: Series management
+     ```
   - More info about icons/images/backgrounds here: https://gethomepage.dev/configs/services/#icons and https://gethomepage.dev/configs/settings/#background-image
 
 4. Version numbering:
