@@ -70,7 +70,7 @@ This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/getho
 | **Add-on shows only “Start” button after install** | HA Supervisor UI sometimes does not refresh correctly after first installation | Refresh the page (F5) or click **Start** again. Then the full controls (`Stop`, `Restart`, `Uninstall`, `Rebuild`, `Open WebUI`) will appear. |
 | **404 when using `/local/homepage/icons/...`** | The file is not located in the correct host directory, or HA has not reloaded static files yet | Make sure the file is placed in `/config/www/homepage/icons/`. Restart Home Assistant (core) so the `/local/` static files are reloaded. |
 | **Old icons or images still showing** | Browser or server caching | Force a hard refresh in the browser (Ctrl+F5) or rename the file (e.g., `favicon_v2.ico`). |
-| **Icons not showing from Homepage (port 3000)** | Homepage container cannot reach `http://<ha-ip>:8123/local/...` or the URL is incorrect | Always use the full Home Assistant URL with port 8123 in your YAML config. |
+| **Icons/Images not showing on Homepage** | Homepage container cannot reach `http://<ha-ip>:8123/local/...` or the URL is incorrect | For icons/images always use the full Home Assistant URL with port 8123 in your YAML config. |
 | **Unable to upload files** | Permissions issue or wrong upload location | Ensure you have write access to `/config/www/homepage/...` via SFTP, File Editor, or another file manager. |
 | **Incorrect paths or typos** | Typo in folder or filename | Double-check folder names, file extensions, and case sensitivity (Linux paths are case-sensitive). |
 
