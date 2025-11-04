@@ -28,7 +28,7 @@ This repository contains the following add-ons:
 
 [addon-Homepage]: https://github.com/bytenoodle/hassioaddon/tree/main/homepage
 [addon-doc-Homepage]: https://github.com/bytenoodle/hassioaddon/blob/main/homepage/README.md
-[Homepage-version-shield]: https://img.shields.io/badge/version-v1.5.0.1-blue.svg
+[Homepage-version-shield]: https://img.shields.io/badge/version-v1.6.0.0-blue.svg
 [Homepage-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [Homepage-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Homepage-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
