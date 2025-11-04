@@ -1,3 +1,10 @@
+## [1.6.0.0] - 2025-11-04
+
+### Changed
+
+- Bumped Homepage version to : 1.6.0
+- Updated homepage readme.
+
 ## [1.5.0.1] - 2025-09-28
 
 ### Changed
