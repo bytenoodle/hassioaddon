@@ -4,7 +4,7 @@
 
 - Bumped Homepage version to : 1.6.0
 - Bumped HA addon version to : 1.6.0.0
-- Updated homepage readme.
+- Updated readme.
 
 ## [1.5.0.1] - 2025-09-28
 
