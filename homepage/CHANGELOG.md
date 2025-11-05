@@ -1,3 +1,11 @@
+## [1.6.1.0] - 2025-11-05
+
+### Changed
+
+- Bumped Homepage version to : 1.6.1
+- Bumped HA addon version to : 1.6.1.0
+
+
 ## [1.6.0.0] - 2025-11-04
 
 ### Changed
