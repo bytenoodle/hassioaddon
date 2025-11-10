@@ -18,8 +18,9 @@ This repository contains the following add-ons:
 ### [-Homepage-][addon-Homepage]
 Customizable start page for your Home Assistant with bookmarks and shortcuts.
 
-- Updated on: 2025-11-05
 ![Latest Version][Homepage-version-shield]
+![Homepage-update-shield]
+
 ![Supports aarch64 Architecture][Homepage-aarch64-shield]
 ![Supports amd64 Architecture][Homepage-amd64-shield]
 ![Supports armhf Architecture][Homepage-armhf-shield]
@@ -30,8 +31,9 @@ Customizable start page for your Home Assistant with bookmarks and shortcuts.
 ### [-Spoolman-][addon-Spoolman]
 Track and manage your 3D printer filament inventory via a web interface.
 
-- Updated on: 2025-11-11
 ![Latest Version][Spoolman-version-shield]
+![Spoolman-update-shield]
+
 ![Supports aarch64 Architecture][Spoolman-aarch64-shield]
 ![Supports amd64 Architecture][Spoolman-amd64-shield]
 ![Supports armhf Architecture][Spoolman-armhf-shield]
@@ -48,6 +50,7 @@ Track and manage your 3D printer filament inventory via a web interface.
 [Homepage-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [Homepage-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [Homepage-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--11-blue.svg
 
 [addon-Spoolman]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman
 [addon-doc-Spoolman]: https://github.com/bytenoodle/hassioaddon/blob/main/spoolman/README.md
@@ -57,3 +60,4 @@ Track and manage your 3D printer filament inventory via a web interface.
 [Spoolman-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [Spoolman-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--05-blue.svg
