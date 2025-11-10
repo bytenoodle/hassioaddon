@@ -16,6 +16,7 @@ This repository contains the following add-ons:
 
 
 ### [-Homepage-][addon-Homepage]
+- Updated on: 2025-11-05
 
 ![Latest Version][Homepage-version-shield]
 ![Supports aarch64 Architecture][Homepage-aarch64-shield]
@@ -25,12 +26,32 @@ This repository contains the following add-ons:
 ![Supports i386 Architecture][Homepage-i386-shield]
 
 -------------------------------
+### [-Spoolman-][addon-Spoolman]
+- Updated on: 2025-11-11
+
+![Latest Version][Spoolman-version-shield]
+![Supports aarch64 Architecture][Spoolman-aarch64-shield]
+![Supports amd64 Architecture][Spoolman-amd64-shield]
+![Supports armhf Architecture][Spoolman-armhf-shield]
+![Supports armv7 Architecture][Spoolman-armv7-shield]
+![Supports i386 Architecture][Spoolman-i386-shield]
+
+-------------------------------
 
 [addon-Homepage]: https://github.com/bytenoodle/hassioaddon/tree/main/homepage
 [addon-doc-Homepage]: https://github.com/bytenoodle/hassioaddon/blob/main/homepage/README.md
-[Homepage-version-shield]: https://img.shields.io/badge/version-v1.6.1.0-blue.svg
+[Homepage-version-shield]: https://img.shields.io/badge/version-v1.6.1--0-blue.svg
 [Homepage-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [Homepage-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Homepage-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [Homepage-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [Homepage-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[addon-Spoolman]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman
+[addon-doc-Spoolman]: https://github.com/bytenoodle/hassioaddon/blob/main/spoolman/README.md
+[Spoolman-version-shield]: https://img.shields.io/badge/version-v0.22.1--0-blue.svg
+[Spoolman-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[Spoolman-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[Spoolman-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[Spoolman-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
