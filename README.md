@@ -16,8 +16,9 @@ This repository contains the following add-ons:
 
 
 ### [-Homepage-][addon-Homepage]
-- Updated on: 2025-11-05
+Customizable start page for your Home Assistant with bookmarks and shortcuts.
 
+- Updated on: 2025-11-05
 ![Latest Version][Homepage-version-shield]
 ![Supports aarch64 Architecture][Homepage-aarch64-shield]
 ![Supports amd64 Architecture][Homepage-amd64-shield]
@@ -27,8 +28,9 @@ This repository contains the following add-ons:
 
 -------------------------------
 ### [-Spoolman-][addon-Spoolman]
-- Updated on: 2025-11-11
+Track and manage your 3D printer filament inventory via a web interface.
 
+- Updated on: 2025-11-11
 ![Latest Version][Spoolman-version-shield]
 ![Supports aarch64 Architecture][Spoolman-aarch64-shield]
 ![Supports amd64 Architecture][Spoolman-amd64-shield]
