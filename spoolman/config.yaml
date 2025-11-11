@@ -1,6 +1,6 @@
-name: Spoolman-dev
+name: Spoolman
 version: "0.22.1-0"
-slug: spoolmandev
+slug: spoolman
 description: "Keep track of your inventory of 3D-printer filament spools."
 arch:
   - amd64
