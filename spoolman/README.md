@@ -30,7 +30,6 @@ This add-on is based on [Spoolman](https://github.com/Donkie/Spoolman).
    - Using **x.x.x-x** format.  
    - The first three numbers match the official Spoolman version (e.g., `0.22.1`).  
    - The number after the dash (`-X`) is for changes specific to this Home Assistant add-on (e.g., `0.22.1-0`).  
-
 5. **External DB Sync & Backups**
    - The add-on automatically syncs filaments and materials from the external SpoolmanDB.  
    - Automatic database backups are scheduled for midnight.  
@@ -46,12 +45,7 @@ This add-on is based on [Spoolman](https://github.com/Donkie/Spoolman).
 4. Access the WebUI at: `http://<HOME_ASSISTANT_HOST>:7912`.  
 
 ## Configuration
-- No user-configurable options.  
-- Timezone and port are fixed to ensure stable operation.  
-
-## Accessing Spoolman
-- Open your browser at: `http://<HOME_ASSISTANT_HOST>:7912`.  
-- Optional: create a Lovelace button or browser bookmark for quick access.  
+- No user-configurable options.
 
 ## Troubleshooting
 
