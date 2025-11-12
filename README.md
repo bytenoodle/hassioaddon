@@ -50,7 +50,7 @@ Track and manage your 3D printer filament inventory via a web interface.
 [Homepage-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [Homepage-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [Homepage-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--05-blue.svg
+[Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--12-blue.svg
 
 [addon-Spoolman]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman
 [addon-doc-Spoolman]: https://github.com/bytenoodle/hassioaddon/blob/main/spoolman/README.md
