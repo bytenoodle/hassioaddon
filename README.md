@@ -44,7 +44,7 @@ Track and manage your 3D printer filament inventory via a web interface.
 
 [addon-Homepage]: https://github.com/bytenoodle/hassioaddon/tree/main/homepage
 [addon-doc-Homepage]: https://github.com/bytenoodle/hassioaddon/blob/main/homepage/README.md
-[Homepage-version-shield]: https://img.shields.io/badge/version-v1.6.1--0-blue.svg
+[Homepage-version-shield]: https://img.shields.io/badge/version-v1.7.0--0-blue.svg
 [Homepage-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [Homepage-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Homepage-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
