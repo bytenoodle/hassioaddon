@@ -44,8 +44,6 @@ This add-on is based on [Spoolman](https://github.com/Donkie/Spoolman).
 3. Start the add-on.  
 4. Access the WebUI at: `http://<HOME_ASSISTANT_HOST>:7912`.  
 
-## Configuration
-- No user-configurable options.
 
 ## Troubleshooting
 
