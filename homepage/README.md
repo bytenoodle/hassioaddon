@@ -1,9 +1,9 @@
 # Homepage
 ![Version][version]
+![Homepage-update-shield]
 ![Production ready][production-ready]
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
-![Homepage-update-shield]
 
 ## About
 This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/gethomepage/homepage/) - [gethomepage.dev](https://gethomepage.dev).
