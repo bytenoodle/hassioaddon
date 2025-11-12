@@ -3,6 +3,7 @@
 ![Production ready][production-ready]
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
+![Homepage-update-shield]
 
 ## About
 This addon is based on the [gethomepage/homepage](https://hub.docker.com/r/gethomepage/homepage/) - [gethomepage.dev](https://gethomepage.dev).
@@ -88,6 +89,8 @@ Assets
 
 [version]: https://img.shields.io/badge/version-v1.7.0--0-blue.svg
 [production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
+
+[Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--12-blue.svg
 
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
 [preview]: https://raw.githubusercontent.com/gethomepage/homepage/refs/heads/dev/images/1.png
