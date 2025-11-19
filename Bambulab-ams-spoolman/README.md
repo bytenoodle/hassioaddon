@@ -7,7 +7,7 @@
 ![Supports amd64 Architecture][amd64-shield]
 
 ## About
-This add-on is based on [bambulab-ams-spoolman-filamentstatus](https://github.com/Rdiger-36/bambulab-ams-spoolman-filamentstatus).
+This add-on is based on Rdiger-36 [bambulab-ams-spoolman-filamentstatus](https://github.com/Rdiger-36/bambulab-ams-spoolman-filamentstatus).
 
 This add-on integrates a **Bambulab AMS** system with **Spoolman** to track and synchronize filament spool usage.  
 It listens for MQTT updates from your Bambulab printer(s) and automatically updates Spoolman.
