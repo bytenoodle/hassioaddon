@@ -1,0 +1,34 @@
+name: Bambulab AMS Spoolman FilamentStatus
+version: "1.1.0-0"
+slug: bambulabspoolmanfs
+description: "This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage. It listens for MQTT updates from the printer and manages spools on Spoolman."
+url: https://github.com/bytenoodle/hassioaddon
+arch:
+  - amd64
+  - aarch64
+startup: services
+init: false
+map:
+  - addon_config:rw
+  - data:rw
+ports:
+  4000/tcp: 4000
+webui: "http://[HOST]:[PORT:4000]"
+options:
+  PRINTER_ID: "printer-ID"
+  PRINTER_CODE: "XYZ123"
+  PRINTER_IP: "192.168.1.x"
+  SPOOLMAN_ENDPOINT: "http://spoolmanurl:port"
+  UPDATE_INTERVAL: 300000
+  NEVER_MERGE_IF_TAG: false
+  DEBUG: false
+  MODE: "manual"
+schema:
+  PRINTER_ID: str
+  PRINTER_CODE: str
+  PRINTER_IP: str
+  SPOOLMAN_ENDPOINT: str
+  UPDATE_INTERVAL: int
+  NEVER_MERGE_IF_TAG: bool
+  DEBUG: bool
+  MODE: list(automatic|manual)
