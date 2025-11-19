@@ -41,6 +41,19 @@ Track and manage your 3D printer filament inventory via a web interface.
 ![Supports i386 Architecture][Spoolman-i386-shield]
 
 -------------------------------
+### [-Bambulab AMS Spoolman FilamentStatus-][addon-blamsspool]
+This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage. It listens for MQTT updates from the printer and manages spools on Spoolman. 
+
+![Latest Version][blamsspool-version-shield]
+![blamsspool-update-shield]
+
+![Supports aarch64 Architecture][blamsspool-aarch64-shield]
+![Supports amd64 Architecture][blamsspool-amd64-shield]
+![Supports armhf Architecture][blamsspool-armhf-shield]
+![Supports armv7 Architecture][blamsspool-armv7-shield]
+![Supports i386 Architecture][blamsspool-i386-shield]
+
+-------------------------------
 
 [addon-Homepage]: https://github.com/bytenoodle/hassioaddon/tree/main/homepage
 [addon-doc-Homepage]: https://github.com/bytenoodle/hassioaddon/blob/main/homepage/README.md
@@ -61,3 +74,13 @@ Track and manage your 3D printer filament inventory via a web interface.
 [Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [Spoolman-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--11-blue.svg
+
+[addon-blamsspool]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman
+[addon-doc-blamsspool]: https://github.com/bytenoodle/hassioaddon/blob/main/spoolman/README.md
+[blamsspool-version-shield]: https://img.shields.io/badge/version-v1.1.0--0-blue.svg
+[blamsspool-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[blamsspool-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[blamsspool-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[blamsspool-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[blamsspool-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[blamsspool-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--19-blue.svg
