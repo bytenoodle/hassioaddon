@@ -116,4 +116,4 @@ Assets
 [production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
 [SBAFS-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--16-blue.svg
-[preview]: image komt hier nog
+[preview]: https://raw.githubusercontent.com/bytenoodle/hassioaddon/refs/heads/main/Bambulab-ams-spoolman/preview.png
