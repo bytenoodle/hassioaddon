@@ -42,7 +42,7 @@ Track and manage your 3D printer filament inventory via a web interface.
 
 -------------------------------
 ### [-Bambulab AMS Spoolman FilamentStatus-][addon-blamsspool]
-This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage. It listens for MQTT updates from the printer and manages spools on Spoolman. 
+This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage.
 
 ![Latest Version][blamsspool-version-shield]
 ![blamsspool-update-shield]
