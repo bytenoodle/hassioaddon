@@ -20,6 +20,7 @@ environment:
   SPOOLMAN_DIR_DATA: "/config"
   SPOOLMAN_DIR_BACKUPS: "/config/backups"
   SPOOLMAN_DIR_LOGS: "/config/logs"
+  SPOOLMAN_DEBUG_MODE: "TRUE"
 homeassistant_api: false
 hassio_api: false
 privileged: []
