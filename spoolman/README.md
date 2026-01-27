@@ -2,8 +2,8 @@
 ![Version][version]
 ![Spoolman-update-shield]
 
-![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
+![Supports aarch64 Architecture][aarch64-shield]
 ![Supports armv7 Architecture][Spoolman-armv7-shield]
 
 ## About
