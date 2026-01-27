@@ -1,7 +1,7 @@
 ARG BUILD_FROM
-FROM ghcr.io/donkie/spoolman:0.22.1
+FROM ghcr.io/donkie/spoolman:0.23.0
 
-# Expose poort die we in HA gebruiken
+# Expose port
 EXPOSE 7912
 
 COPY run.sh /run.sh
