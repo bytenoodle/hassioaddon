@@ -21,8 +21,8 @@ Customizable start page for your Home Assistant with bookmarks and shortcuts.
 ![Latest Version][Homepage-version-shield]
 ![Homepage-update-shield]
 
-![Supports aarch64 Architecture][Homepage-aarch64-shield]
 ![Supports amd64 Architecture][Homepage-amd64-shield]
+![Supports aarch64 Architecture][Homepage-aarch64-shield]
 ![Supports armv7 Architecture][Homepage-armv7-shield]
 
 -------------------------------
@@ -32,8 +32,8 @@ Track and manage your 3D printer filament inventory via a web interface.
 ![Latest Version][Spoolman-version-shield]
 ![Spoolman-update-shield]
 
-![Supports aarch64 Architecture][Spoolman-aarch64-shield]
 ![Supports amd64 Architecture][Spoolman-amd64-shield]
+![Supports aarch64 Architecture][Spoolman-aarch64-shield]
 ![Supports armv7 Architecture][Spoolman-armv7-shield]
 
 -------------------------------
@@ -43,8 +43,8 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 ![Latest Version][blamsspool-version-shield]
 ![blamsspool-update-shield]
 
-![Supports aarch64 Architecture][blamsspool-aarch64-shield]
 ![Supports amd64 Architecture][blamsspool-amd64-shield]
+![Supports aarch64 Architecture][blamsspool-aarch64-shield]
 ![Supports armv7 Architecture][blamsspool-armv7-shield]
 
 -------------------------------
