@@ -45,7 +45,6 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 
 ![Supports aarch64 Architecture][blamsspool-aarch64-shield]
 ![Supports amd64 Architecture][blamsspool-amd64-shield]
-![Supports armhf Architecture][blamsspool-armhf-shield]
 ![Supports armv7 Architecture][blamsspool-armv7-shield]
 
 -------------------------------
