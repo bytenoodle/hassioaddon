@@ -2,7 +2,6 @@
 ![Version][version]
 ![Spoolman-update-shield]
 
-![Production ready][production-ready]
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
 ![Supports armv7 Architecture][Spoolman-armv7-shield]
@@ -74,6 +73,5 @@ Assets
 [Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [version]: https://img.shields.io/badge/version-v0.23.0--0-blue.svg
 [Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--01--27-blue.svg
-[production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
 [preview]: https://raw.githubusercontent.com/bytenoodle/hassioaddon/refs/heads/main/spoolman/preview.png
