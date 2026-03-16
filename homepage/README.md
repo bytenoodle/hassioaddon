@@ -2,7 +2,6 @@
 ![Version][version]
 ![Homepage-update-shield]
 
-![Production ready][production-ready]
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
 
@@ -87,11 +86,9 @@ Assets
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 
+[version]: https://img.shields.io/badge/version-v1.11.0--0-blue.svg
 
-[version]: https://img.shields.io/badge/version-v1.10.1--0-blue.svg
-[production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
-
-[Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2026--02--10-blue.svg
+[Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2026--03--17-blue.svg
 
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
 [preview]: https://raw.githubusercontent.com/gethomepage/homepage/refs/heads/dev/images/1.png
