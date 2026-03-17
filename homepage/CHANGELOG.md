@@ -3,7 +3,7 @@
 ### Changed
 
 - Bumped Homepage version to : 1.11.0
-   - Homepage changelog 1.10.0: https://github.com/gethomepage/homepage/releases/tag/v1.10.0
+   - Homepage changelog 1.11.0: https://github.com/gethomepage/homepage/releases/tag/v1.11.0
 - Bumped HA addon version to : 1.11.0-0
 
 
