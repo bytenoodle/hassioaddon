@@ -27,5 +27,9 @@ options:
 schema:
   SPOOLMAN_DEBUG_MODE: bool
 homeassistant_api: false
-hassio_api: false
-privileged: []
+hassio_api: true
+# Ingress (web UI in HA sidebar)
+ingress: true
+ingress_port: 7912
+panel_icon: mdi:printer-3d-nozzle
+panel_title: Spoolman
