@@ -37,6 +37,17 @@ Track and manage your 3D printer filament inventory via a web interface.
 ![Supports armv7 Architecture][Spoolman-armv7-shield]
 
 -------------------------------
+### [-Spoolman-Ingress-][addon-Spoolman]
+Spoolman with HAOS Ingress.
+
+![Latest Version][Spoolman-ingress-version-shield]
+![Spoolman-ingress-update-shield]
+
+![Supports amd64 Architecture][Spoolman-ingress-amd64-shield]
+![Supports aarch64 Architecture][Spoolman-ingress-aarch64-shield]
+![Supports armv7 Architecture][Spoolman-ingress-armv7-shield]
+
+-------------------------------
 ### [-Bambulab AMS Spoolman FilamentStatus-][addon-blamsspool]
 This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage.
 
@@ -64,6 +75,15 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 [Spoolman-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--02--08-blue.svg
+
+
+[addon-Spoolman-ingress]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman-ingress
+[addon-doc-Spoolman-ingress]: https://github.com/bytenoodle/hassioaddon/blob/main/spoolman-ingress/README.md
+[Spoolman-ingress-version-shield]: https://img.shields.io/badge/version-v0.23.1--0--ingress-blue.svg
+[Spoolman-ingress-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[Spoolman-ingress-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[Spoolman-ingress-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[Spoolman-ingress-update-shield]: https://img.shields.io/badge/Updated%20on-2026--06--11-blue.svg
 
 [addon-blamsspool]: https://github.com/bytenoodle/hassioaddon/tree/main/Bambulab-ams-spoolman
 [addon-doc-blamsspool]: https://github.com/bytenoodle/hassioaddon/blob/main/Bambulab-ams-spoolman/README.md
