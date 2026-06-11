@@ -37,7 +37,7 @@ Track and manage your 3D printer filament inventory via a web interface.
 ![Supports armv7 Architecture][Spoolman-armv7-shield]
 
 -------------------------------
-### [-Spoolman-Ingress-][addon-Spoolman]
+### [-Spoolman-Ingress-][addon-Spoolman-ingress]
 Spoolman with HAOS Ingress.
 
 ![Latest Version][Spoolman-ingress-version-shield]
