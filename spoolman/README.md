@@ -8,6 +8,7 @@
 
 ## About
 This add-on is based on [Spoolman](https://github.com/Donkie/Spoolman).
+
 For the haos ingress version, see the [Spoolman-Ingress add-on](https://github.com/bytenoodle/hassioaddon/tree/main/spoolman-ingress).
 
 ## Notes
