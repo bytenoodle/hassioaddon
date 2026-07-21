@@ -1,5 +1,5 @@
 name: Spoolman-Ingress
-version: "0.23.1-1-ingress"
+version: "0.24.0-0-ingress"
 slug: spoolman_ingress
 description: "Keep track of your inventory of 3D-printer filament spools. HAOS Ingress"
 arch:
