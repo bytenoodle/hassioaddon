@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-FROM ghcr.io/donkie/spoolman:0.23.1
+FROM ghcr.io/donkie/spoolman:0.24.0
 
 # Expose port
 EXPOSE 7912
