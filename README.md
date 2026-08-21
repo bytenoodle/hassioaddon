@@ -62,19 +62,19 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 
 [addon-Homepage]: https://github.com/bytenoodle/hassioaddon/tree/main/homepage
 [addon-doc-Homepage]: https://github.com/bytenoodle/hassioaddon/blob/main/homepage/README.md
-[Homepage-version-shield]: https://img.shields.io/badge/version-v1.13.2--0-blue.svg
+[Homepage-version-shield]: https://img.shields.io/badge/version-v2.1.1--0-blue.svg
 [Homepage-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [Homepage-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Homepage-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2026--06--17-blue.svg
+[Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--21-blue.svg
 
 [addon-Spoolman]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman
 [addon-doc-Spoolman]: https://github.com/bytenoodle/hassioaddon/blob/main/spoolman/README.md
-[Spoolman-version-shield]: https://img.shields.io/badge/version-v0.24.0--0-blue.svg
+[Spoolman-version-shield]: https://img.shields.io/badge/version-v0.26.1--0-blue.svg
 [Spoolman-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [Spoolman-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--07--21-blue.svg
+[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--21-blue.svg
 
 
 [addon-Spoolman-ingress]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman-ingress
