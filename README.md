@@ -33,7 +33,6 @@ Track and manage your 3D printer filament inventory via a web interface.
 
 ![Supports amd64 Architecture][Spoolman-amd64-shield]
 ![Supports aarch64 Architecture][Spoolman-aarch64-shield]
-![Supports armv7 Architecture][Spoolman-armv7-shield]
 
 -------------------------------
 ### [-Spoolman-Ingress-][addon-Spoolman-ingress]
@@ -44,7 +43,6 @@ Spoolman with HAOS Ingress.
 
 ![Supports amd64 Architecture][Spoolman-ingress-amd64-shield]
 ![Supports aarch64 Architecture][Spoolman-ingress-aarch64-shield]
-![Supports armv7 Architecture][Spoolman-ingress-armv7-shield]
 
 -------------------------------
 ### [-Bambulab AMS Spoolman FilamentStatus-][addon-blamsspool]
@@ -55,7 +53,6 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 
 ![Supports amd64 Architecture][blamsspool-amd64-shield]
 ![Supports aarch64 Architecture][blamsspool-aarch64-shield]
-![Supports armv7 Architecture][blamsspool-armv7-shield]
 
 -------------------------------
 
