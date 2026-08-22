@@ -23,7 +23,6 @@ Customizable start page for your Home Assistant with bookmarks and shortcuts.
 
 ![Supports amd64 Architecture][Homepage-amd64-shield]
 ![Supports aarch64 Architecture][Homepage-aarch64-shield]
-![Supports armv7 Architecture][Homepage-armv7-shield]
 
 -------------------------------
 ### [-Spoolman-][addon-Spoolman]
@@ -65,7 +64,6 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 [Homepage-version-shield]: https://img.shields.io/badge/version-v2.1.2--0-blue.svg
 [Homepage-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [Homepage-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[Homepage-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--22-blue.svg
 
 [addon-Spoolman]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman
