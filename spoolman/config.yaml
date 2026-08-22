@@ -8,7 +8,7 @@ arch:
 startup: services
 init: false
 map:
-  - addon_config:rw
+  - app_config:rw
   - data:rw
 ports:
   7912/tcp: 7912
