@@ -25,8 +25,13 @@ Ingress support thanks to [@dmuth23](https://github.com/dmuth23)
    - The add-on automatically uses the Home Assistant system timezone.
    - No manual timezone configuration is required.  
    - Default fallback: `Europe/Stockholm`.
+  
+3. **Configuration options**
+   - **Debug mode** — Enables debug logging for Spoolman. Only enable this when troubleshooting, as it increases log output significantly.
+   - **Legacy client** — Switches back to the old Spoolman interface (React). Only use this if you experience issues with the new interface introduced in v0.26.0. After enabling, do a hard refresh (Ctrl+F5) in your browser to clear the cache.
+   - **CORS origin** — Required if external tools (e.g. Bambu Lab, Moonraker) access Spoolman via SSL or a reverse proxy. Enter your full external URL, e.g. `https://spoolman.example.com`. Leave empty if not needed.
 
-3. **Data directories**
+4. **Data directories**
    - `addon_config/<slug>/` → main add-on data, logs, and backups.  
      - `<slug>` is the add-on folder name automatically created by Home Assistant, e.g., `20c49e40_spoolman_ingress`.  
    - The add-on automatically creates the following subdirectories inside this folder:
@@ -36,12 +41,12 @@ Ingress support thanks to [@dmuth23](https://github.com/dmuth23)
    - All directories have correct permissions for the Spoolman process.  
    - **Note:** `/config` refers to the main Home Assistant configuration path inside the container, but all add-on files live under `addon_config/<slug>/`.
 
-4. **Version numbering**
+5. **Version numbering**
    - Using **x.x.x-x-ingress** format.  
    - The first three numbers match the official Spoolman version (e.g., `0.23.1`).  
    - The number after the first dash (`-X`) is for changes specific to this Home Assistant add-on (e.g., `0.23.1-0-ingress`).  
 
-5. **External DB Sync & Backups**
+6. **External DB Sync & Backups**
    - The add-on automatically syncs filaments and materials from the external SpoolmanDB.  
    - Automatic database backups are scheduled for midnight.  
    - No configuration is required; everything runs in the background.
@@ -81,7 +86,7 @@ Assets
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[version]: https://img.shields.io/badge/version-v0.26.1--0--ingress-blue.svg
-[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--21-blue.svg
+[version]: https://img.shields.io/badge/version-v0.26.1--1--ingress-blue.svg
+[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--22-blue.svg
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
 [preview]: https://raw.githubusercontent.com/bytenoodle/hassioaddon/refs/heads/main/spoolman-ingress/preview.png
