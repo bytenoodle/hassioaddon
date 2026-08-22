@@ -21,7 +21,12 @@ For the haos ingress version, see the [Spoolman-Ingress add-on](https://github.c
    - Fixed to `7912`. Changing the port in the add-on configuration has no effect.
    - Ensure no other add-on uses this host port.
 
-3. **Data directories**
+3. **Configuration options**
+   - **Debug mode** — Enables debug logging for Spoolman. Only enable this when troubleshooting, as it increases log output significantly.
+   - **Legacy client** — Switches back to the old Spoolman interface (React). Only use this if you experience issues with the new interface introduced in v0.26.0. After enabling, do a hard refresh (Ctrl+F5) in your browser to clear the cache.
+   - **CORS origin** — Required if you access Spoolman via SSL or a reverse proxy from an external URL. Enter your full external URL, e.g. `https://spoolman.example.com`. Leave empty if you access Spoolman directly via local IP.
+
+4. **Data directories**
    - `addon_config/<slug>/` → main add-on data, logs, and backups.  
      - `<slug>` is the add-on folder name automatically created by Home Assistant, e.g., `20c49e40_spoolman`.  
    - The add-on automatically creates the following subdirectories inside this folder:
@@ -30,11 +35,13 @@ For the haos ingress version, see the [Spoolman-Ingress add-on](https://github.c
      - `cache/` → temporary cache files
    - All directories have correct permissions for the Spoolman process.  
    - **Note:** `/config` refers to the main Home Assistant configuration path inside the container, but all add-on files live under `addon_config/<slug>/`.
-4. **Version numbering**
+
+5. **Version numbering**
    - Using **x.x.x-x** format.  
    - The first three numbers match the official Spoolman version (e.g., `0.22.1`).  
-   - The number after the dash (`-X`) is for changes specific to this Home Assistant add-on (e.g., `0.22.1-0`).  
-5. **External DB Sync & Backups**
+   - The number after the dash (`-X`) is for changes specific to this Home Assistant add-on (e.g., `0.22.1-0`).
+
+6. **External DB Sync & Backups**
    - The add-on automatically syncs filaments and materials from the external SpoolmanDB.  
    - Automatic database backups are scheduled for midnight.  
    - No configuration is required; everything runs in the background.
