@@ -7,7 +7,7 @@ arch:
   - amd64
   - aarch64
 map:
-  - addon_config:rw
+  - app_config:rw
 docker_api: true
 environment:
   HOMEPAGE_ALLOWED_HOSTS: "*"
