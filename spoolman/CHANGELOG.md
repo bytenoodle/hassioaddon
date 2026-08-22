@@ -1,3 +1,7 @@
+## [0.26.1-2] - 2026-08-22
+- Replaced deprecated `addon_config` map type with `app_config`
+- Removed deprecated `armv7` architecture support
+
 ## [0.26.1-1] - 2026-08-22
 - Added support for CORS origins (SPOOLMAN_CORS_ORIGIN)
 - Added support for Legacy client (SPOOLMAN_LEGACY_CLIENT)
