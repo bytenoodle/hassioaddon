@@ -1,6 +1,8 @@
 ## [0.26.1-1] - 2026-08-22
 - Added support for CORS origins (SPOOLMAN_CORS_ORIGIN)
 - Added support for Legacy client (SPOOLMAN_LEGACY_CLIENT)
+- Added configuration option descriptions in the Configuration tab
+- Updated README with configuration options documentation
 - Bumped HA addon version to: 0.26.1-1
 
 ## [0.26.1-0] - 2026-08-21
