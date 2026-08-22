@@ -86,7 +86,7 @@ Assets
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 
-[version]: https://img.shields.io/badge/version-v2.1.2--0-blue.svg
+[version]: https://img.shields.io/badge/version-v2.1.2--1-blue.svg
 
 [Homepage-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--22-blue.svg
 
