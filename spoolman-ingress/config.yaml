@@ -1,15 +1,14 @@
 name: Spoolman-Ingress
-version: "0.26.1-1-ingress"
+version: "0.26.1-2"
 slug: spoolman_ingress
 description: "Keep track of your inventory of 3D-printer filament spools. HAOS Ingress"
 arch:
   - amd64
   - aarch64
-  - armv7
 startup: services
 init: false
 map:
-  - addon_config:rw
+  - app_config:rw
   - data:rw
 environment:
   SPOOLMAN_HOST: "0.0.0.0"
