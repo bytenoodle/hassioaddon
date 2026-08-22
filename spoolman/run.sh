@@ -20,6 +20,26 @@ fi
 export SPOOLMAN_DEBUG_MODE
 echo "[INFO] Debug mode: ${SPOOLMAN_DEBUG_MODE}"
 
+# Read legacy client option
+SPOOLMAN_LEGACY_CLIENT="false"
+if [ -f "$OPTIONS_FILE" ]; then
+    SPOOLMAN_LEGACY_CLIENT=$(grep -Po '"SPOOLMAN_LEGACY_CLIENT"\s*:\s*\K(true|false)' "$OPTIONS_FILE" || echo "false")
+fi
+if [ "$SPOOLMAN_LEGACY_CLIENT" = "true" ]; then
+    export SPOOLMAN_LEGACY_CLIENT=TRUE
+    echo "[INFO] Using legacy client"
+fi
+
+# Read CORS origin option
+SPOOLMAN_CORS_ORIGIN=""
+if [ -f "$OPTIONS_FILE" ]; then
+    SPOOLMAN_CORS_ORIGIN=$(grep -Po '"SPOOLMAN_CORS_ORIGIN"\s*:\s*"\K[^"]*' "$OPTIONS_FILE" 2>/dev/null || echo "")
+fi
+if [ -n "$SPOOLMAN_CORS_ORIGIN" ]; then
+    export SPOOLMAN_CORS_ORIGIN
+    echo "[INFO] CORS origin set to: ${SPOOLMAN_CORS_ORIGIN}"
+fi
+
 # Making directories
 echo "[INFO] Ensuring data directories exist..."
 mkdir -p "$SPOOLMAN_DIR_DATA" "$SPOOLMAN_DIR_BACKUPS" "$SPOOLMAN_DIR_LOGS" "$SPOOLMAN_DIR_CACHE"
