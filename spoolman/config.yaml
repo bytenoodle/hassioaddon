@@ -1,11 +1,10 @@
 name: Spoolman
-version: "0.26.1-1"
+version: "0.26.1-2"
 slug: spoolman
 description: "Keep track of your inventory of 3D-printer filament spools."
 arch:
   - amd64
   - aarch64
-  - armv7
 startup: services
 init: false
 map:
