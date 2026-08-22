@@ -70,20 +70,20 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 
 [addon-Spoolman]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman
 [addon-doc-Spoolman]: https://github.com/bytenoodle/hassioaddon/blob/main/spoolman/README.md
-[Spoolman-version-shield]: https://img.shields.io/badge/version-v0.26.1--0-blue.svg
+[Spoolman-version-shield]: https://img.shields.io/badge/version-v0.26.1--1-blue.svg
 [Spoolman-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [Spoolman-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--21-blue.svg
+[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--22-blue.svg
 
 
 [addon-Spoolman-ingress]: https://github.com/bytenoodle/hassioaddon/tree/main/spoolman-ingress
 [addon-doc-Spoolman-ingress]: https://github.com/bytenoodle/hassioaddon/blob/main/spoolman-ingress/README.md
-[Spoolman-ingress-version-shield]: https://img.shields.io/badge/version-v0.26.1--0--ingress-blue.svg
+[Spoolman-ingress-version-shield]: https://img.shields.io/badge/version-v0.26.1--1--ingress-blue.svg
 [Spoolman-ingress-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [Spoolman-ingress-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [Spoolman-ingress-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[Spoolman-ingress-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--21-blue.svg
+[Spoolman-ingress-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--22-blue.svg
 
 [addon-blamsspool]: https://github.com/bytenoodle/hassioaddon/tree/main/Bambulab-ams-spoolman
 [addon-doc-blamsspool]: https://github.com/bytenoodle/hassioaddon/blob/main/Bambulab-ams-spoolman/README.md
