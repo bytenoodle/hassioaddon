@@ -80,7 +80,7 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 
 [addon-blamsspool]: https://github.com/bytenoodle/hassioaddon/tree/main/Bambulab-ams-spoolman
 [addon-doc-blamsspool]: https://github.com/bytenoodle/hassioaddon/blob/main/Bambulab-ams-spoolman/README.md
-[blamsspool-version-shield]: https://img.shields.io/badge/version-v1.1.0--0-blue.svg
+[blamsspool-version-shield]: https://img.shields.io/badge/version-v1.2.1--0-blue.svg
 [blamsspool-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [blamsspool-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[blamsspool-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--19-blue.svg
+[blamsspool-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--26-blue.svg
