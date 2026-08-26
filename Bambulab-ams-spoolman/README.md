@@ -57,7 +57,8 @@ More info about Printer configuration here: [Rdiger-36/bambulab-ams-spoolman-fil
   - `PRINTER_CODE`  
   - `PRINTER_IP`  
   - `SPOOLMAN_ENDPOINT`  
-  - `UPDATE_INTERVAL`  
+  - `UPDATE_INTERVAL`
+  - `SET_LOCATION`
   - `NEVER_MERGE_IF_TAG`  
   - `DEBUG`  
   - `MODE` (`manual` or `automatic`)  
@@ -112,8 +113,8 @@ Assets
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[version]: https://img.shields.io/badge/version-v1.1.0--0-blue.svg
+[version]: https://img.shields.io/badge/version-v1.2.1--0-blue.svg
 [production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
-[SBAFS-update-shield]: https://img.shields.io/badge/Updated%20on-2025--11--19-blue.svg
+[SBAFS-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--26-blue.svg
 [preview]: https://raw.githubusercontent.com/bytenoodle/hassioaddon/refs/heads/main/Bambulab-ams-spoolman/preview.png
