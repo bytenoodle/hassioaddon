@@ -1,5 +1,5 @@
 name: Bambulab AMS Spoolman FilamentStatus
-version: "1.2.1-0"
+version: "1.2.1-1"
 slug: bambulabspoolmanfs
 description: "This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage."
 url: https://github.com/bytenoodle/hassioaddon
@@ -20,6 +20,7 @@ options:
   PRINTER_IP: "192.168.1.x"
   SPOOLMAN_ENDPOINT: "http://spoolmanurl:port"
   UPDATE_INTERVAL: 300000
+  SET_LOCATION: false
   NEVER_MERGE_IF_TAG: false
   DEBUG: false
   MODE: "manual"
@@ -29,6 +30,7 @@ schema:
   PRINTER_IP: str
   SPOOLMAN_ENDPOINT: str
   UPDATE_INTERVAL: int
+  SET_LOCATION: bool
   NEVER_MERGE_IF_TAG: bool
   DEBUG: bool
   MODE: list(automatic|manual)
