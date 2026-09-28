@@ -1,4 +1,4 @@
-FROM ghcr.io/donkie/spoolman:0.26.1
+FROM ghcr.io/donkie/spoolman:0.27.0
 
 USER root
 RUN apt-get update && apt-get install -y --no-install-recommends curl nginx && rm -rf /var/lib/apt/lists/*
