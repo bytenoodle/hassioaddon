@@ -1,3 +1,8 @@
+## [0.27.0-0] - 2026-09-28
+- Bumped Spoolman version to : 0.27.0
+   - Spoolman changelog: https://github.com/Donkie/Spoolman/releases/tag/v0.27.0
+- Bumped HA addon version to : 0.27.0-0
+
 ## [0.26.1-2] - 2026-08-22
 - Replaced deprecated `addon_config` map type with `app_config`
 - Removed deprecated `armv7` architecture support
