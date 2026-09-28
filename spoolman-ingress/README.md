@@ -84,7 +84,7 @@ Assets
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[version]: https://img.shields.io/badge/version-v0.26.1--1--ingress-blue.svg
-[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--08--22-blue.svg
+[version]: https://img.shields.io/badge/version-v0.27.0--0--ingress-blue.svg
+[Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--09--28-blue.svg
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
 [preview]: https://raw.githubusercontent.com/bytenoodle/hassioaddon/refs/heads/main/spoolman-ingress/preview.png
