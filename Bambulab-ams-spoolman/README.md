@@ -1,4 +1,13 @@
 # Bambulab AMS Spoolman FilamentStatus HA Add-on
+
+⚠️ Deprecation Notice
+
+BambuLab AMS Spoolman FilamentStatus will be deprecated soon.
+
+A new Home Assistant App for HaspelSync is coming soon, and users will be able to migrate to it once it is released.
+
+⚠️ Deprecation Notice
+
 ![Version][version]
 ![SBAFS-update-shield]
 
