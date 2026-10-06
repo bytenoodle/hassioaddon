@@ -1,3 +1,9 @@
+## [1.2.1-2] - 2026-10-06
+- ⚠️ **WARNING: DEPRECATED.** This app is replaced by the HaspelSync app and will no longer be maintained. Please stop and uninstall this app and switch to HaspelSync: https://github.com/bytenoodle/hassioaddon/tree/main/haspelsync
+- The upstream project was renamed to HaspelSync, and the old upstream image this app is built on will be retired. This app can stop working after that.
+- This app will be removed from the repository soon.
+- No functional changes.
+
 ## [1.2.1-1] - 2026-09-02
 - Fixed: SET_LOCATION option was missing from config.yaml
 
