@@ -2,7 +2,6 @@
 ![Version][version]
 ![HaspelSync-update-shield]
 
-![Production ready][production-ready]
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
 
