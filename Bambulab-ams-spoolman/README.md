@@ -1,12 +1,16 @@
 # Bambulab AMS Spoolman FilamentStatus HA Add-on
 
-⚠️ Deprecation Notice
+> [!WARNING]
+> **⚠️ WARNING: this app is deprecated and no longer maintained. Please stop and uninstall it and switch to HaspelSync. It will be removed from this repository soon.**
+>
+> It is replaced by the **[HaspelSync app](https://github.com/bytenoodle/hassioaddon/tree/main/haspelsync)**. The upstream project was renamed to HaspelSync, and the old image this app is built on will be retired, so this app can stop working.
+>
+> **How to switch:** HaspelSync is a separate app and you start fresh, nothing is carried over.
+> 1. Stop this app (both apps use port `4000`) and do not start it again.
+> 2. Install and start the HaspelSync app and set up your Spoolman URL and printers in its Web UI.
+> 3. Update automations that start or stop this app: the slug changes from `reponumber_bambulabspoolmanfs` to `reponumber_haspelsync`.
+> 4. Uninstall this app as soon as HaspelSync works.
 
-BambuLab AMS Spoolman FilamentStatus will be deprecated soon.
-
-A new Home Assistant App for HaspelSync is coming soon, and users will be able to migrate to it once it is released.
-
-⚠️ Deprecation Notice
 
 ![Version][version]
 ![SBAFS-update-shield]
