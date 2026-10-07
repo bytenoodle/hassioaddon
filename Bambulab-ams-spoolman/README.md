@@ -124,10 +124,10 @@ actions:
 Assets
 -->
 
-[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[version]: https://img.shields.io/badge/version-v1.2.1--1-blue.svg
-[production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-red.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-red.svg
+[version]: https://img.shields.io/badge/version-v1.2.1--2-red.svg
+[production-ready]: https://img.shields.io/badge/Production%20ready-no-red.svg
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
-[SBAFS-update-shield]: https://img.shields.io/badge/Updated%20on-2026--09--02-blue.svg
+[SBAFS-update-shield]: https://img.shields.io/badge/Updated%20on-2026--10--06-red.svg
 [preview]: https://raw.githubusercontent.com/bytenoodle/hassioaddon/refs/heads/main/Bambulab-ams-spoolman/preview.png
