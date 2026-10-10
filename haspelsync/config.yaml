@@ -1,5 +1,5 @@
 name: HaspelSync
-version: "1.3.3-0"
+version: "1.3.4-0"
 slug: haspelsync
 description: "Synchronize your Bambu Lab AMS filament spools with Spoolman, automatically."
 url: https://github.com/bytenoodle/hassioaddon
