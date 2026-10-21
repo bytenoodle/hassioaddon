@@ -55,16 +55,6 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 ![Supports aarch64 Architecture][haspelsync-aarch64-shield]
 
 -------------------------------
-### [-[Deprecated] Bambulab AMS Spoolman FilamentStatus-][addon-blamsspool]
-This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage.
-
-![Latest Version][blamsspool-version-shield]
-![blamsspool-update-shield]
-
-![Supports amd64 Architecture][blamsspool-amd64-shield]
-![Supports aarch64 Architecture][blamsspool-aarch64-shield]
-
--------------------------------
 
 [addon-Homepage]: https://github.com/bytenoodle/hassioaddon/tree/main/homepage
 [addon-doc-Homepage]: https://github.com/bytenoodle/hassioaddon/blob/main/homepage/README.md
@@ -90,14 +80,7 @@ This project integrates a Bambulab AMS system with Spoolman to synchronize filam
 
 [addon-haspelsync]: https://github.com/bytenoodle/hassioaddon/tree/main/haspelsync
 [addon-doc-haspelsync]: https://github.com/bytenoodle/hassioaddon/blob/main/haspelsync/README.md
-[haspelsync-version-shield]: https://img.shields.io/badge/version-v1.3.4--0-blue.svg
+[haspelsync-version-shield]: https://img.shields.io/badge/version-v1.3.5--0-blue.svg
 [haspelsync-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [haspelsync-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[haspelsync-update-shield]: https://img.shields.io/badge/Updated%20on-2026--10--10-blue.svg
-
-[addon-blamsspool]: https://github.com/bytenoodle/hassioaddon/tree/main/Bambulab-ams-spoolman
-[addon-doc-blamsspool]: https://github.com/bytenoodle/hassioaddon/blob/main/Bambulab-ams-spoolman/README.md
-[blamsspool-version-shield]: https://img.shields.io/badge/version-v1.2.1--2-red.svg
-[blamsspool-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-red.svg
-[blamsspool-amd64-shield]: https://img.shields.io/badge/amd64-yes-red.svg
-[blamsspool-update-shield]: https://img.shields.io/badge/Updated%20on-2026--10--06-red.svg
+[haspelsync-update-shield]: https://img.shields.io/badge/Updated%20on-2026--10--22-blue.svg
