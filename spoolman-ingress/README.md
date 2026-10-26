@@ -1,4 +1,4 @@
-# Spoolman Ingress HA Add-on
+# Spoolman Ingress HA App
 ![Version][version]
 ![Spoolman-update-shield]
 
