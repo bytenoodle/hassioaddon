@@ -1,4 +1,4 @@
-# Spoolman HA Add-on
+# Spoolman HA App
 ![Version][version]
 ![Spoolman-update-shield]
 
