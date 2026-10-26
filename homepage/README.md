@@ -1,4 +1,4 @@
-# Homepage
+# Homepage HA App
 ![Version][version]
 ![Homepage-update-shield]
 
