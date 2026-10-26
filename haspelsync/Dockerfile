@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-FROM ghcr.io/rdiger-36/haspelsync:1.3.5
+FROM ghcr.io/rdiger-36/haspelsync:1.3.6
 
 # Add script and default config
 COPY run.sh /run.sh
