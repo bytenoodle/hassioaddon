@@ -1,3 +1,8 @@
+## [2.8.0-0] - 2026-11-14
+- Bumped Homepage version to : 2.8.0
+   - Homepage changelog 2.8.0: https://github.com/gethomepage/homepage/releases/tag/v2.8.0
+- Bumped HA addon version to : 2.8.0-0
+
 ## [2.7.0-0] - 2026-10-26
 - Bumped Homepage version to : 2.7.0
    - Homepage changelog 2.7.0: https://github.com/gethomepage/homepage/releases/tag/v2.7.0
