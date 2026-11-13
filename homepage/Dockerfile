@@ -1,1 +1,1 @@
-FROM ghcr.io/gethomepage/homepage:v2.7.0
+FROM ghcr.io/gethomepage/homepage:v2.8.0
