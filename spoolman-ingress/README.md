@@ -73,6 +73,7 @@ Ingress support thanks to [@dmuth23](https://github.com/dmuth23)
 - If you encounter any issues, please open an issue on the [Bytenoodle/hassioaddon GitHub repository](https://github.com/bytenoodle/hassioaddon/issues).  
 - Include your add-on logs and a brief description of the problem.  
 - This helps to diagnose and fix problems faster.
+- For questions about Spoolman’s own features or behavior (e.g. locations, labels, API), please check [Donkie’s Spoolman repo](https://github.com/Donkie/Spoolman) instead.
 
 ## Screenshot
 
