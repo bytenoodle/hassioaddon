@@ -1,3 +1,15 @@
+## [1.4.1-1] - 2026-11-26
+- Bumped HaspelSync version to : 1.4.1
+   - HaspelSync changelog: https://github.com/Rdiger-36/HaspelSync/releases/tag/v1.4.1
+- Bumped HA addon version to : 1.4.1-1
+
+**Fixes**
+- Fixed Docker build permissions after HaspelSync switched to the unprivileged node user in v1.4.0.
+- Updated run.sh to use the native DATA_DIR and LOG_DIR environment variables instead of symbolic links.
+- Removed unnecessary chown and chmod operations.
+- Fixed persistent settings and printer configuration not being loaded after updating to HaspelSync v1.4.0.
+- Ensured required data and log directories are automatically created on fresh installations.
+
 ## [1.4.0-0] - 2026-11-26
 - Bumped HaspelSync version to : 1.4.0
    - HaspelSync changelog: https://github.com/Rdiger-36/HaspelSync/releases/tag/v1.4.0
