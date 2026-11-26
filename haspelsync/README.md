@@ -111,7 +111,7 @@ Assets
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[version]: https://img.shields.io/badge/version-v1.4.0--0-blue.svg
+[version]: https://img.shields.io/badge/version-v1.4.1--1-blue.svg
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bytenoodle/hassioaddon
 [HaspelSync-update-shield]: https://img.shields.io/badge/Updated%20on-2026--11--26-blue.svg
 [preview]: https://raw.githubusercontent.com/bytenoodle/hassioaddon/refs/heads/main/haspelsync/preview.png
