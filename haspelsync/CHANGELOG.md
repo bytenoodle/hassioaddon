@@ -1,3 +1,8 @@
+## [1.4.0-0] - 2026-11-26
+- Bumped HaspelSync version to : 1.4.0
+   - HaspelSync changelog: https://github.com/Rdiger-36/HaspelSync/releases/tag/v1.4.0
+- Bumped HA addon version to : 1.4.0-0
+
 ## [1.3.7-0] - 2026-11-03
 - Bumped HaspelSync version to : 1.3.7
    - HaspelSync changelog: https://github.com/Rdiger-36/HaspelSync/releases/tag/v1.3.7
