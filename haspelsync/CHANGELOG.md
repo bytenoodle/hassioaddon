@@ -1,3 +1,14 @@
+## [1.4.2-1] - 2026-11-27
+- Bumped HaspelSync version to 1.4.2
+  - HaspelSync changelog: https://github.com/Rdiger-36/HaspelSync/releases/tag/v1.4.2
+- Bumped HA addon version to : 1.4.2-1
+
+**Fixes**
+- Fixed fresh installation startup failure (#13)
+- Added automatic ownership correction for persistent application data
+- Ensured existing installations retain their settings and printer configuration
+- Run HaspelSync as the unprivileged node user
+
 ## [1.4.1-1] - 2026-11-26
 - Bumped HaspelSync version to : 1.4.1
    - HaspelSync changelog: https://github.com/Rdiger-36/HaspelSync/releases/tag/v1.4.1
