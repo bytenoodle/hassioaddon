@@ -4,7 +4,7 @@
 - Bumped HA addon version to : 1.4.2-1
 
 **Fixes**
-- Fixed fresh installation startup failure (#13)
+- Fixed fresh installation startup failure ([#13](https://github.com/bytenoodle/hassioaddon/issues/13))
 - Added automatic ownership correction for persistent application data
 - Ensured existing installations retain their settings and printer configuration
 - Run HaspelSync as the unprivileged node user
