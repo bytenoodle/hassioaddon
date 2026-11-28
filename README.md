@@ -3,11 +3,10 @@
 
 <div align="center">
 
-> ### Like my projects?
+> ### Enjoying my Home Assistant apps?
+> A ⭐ star would be greatly appreciated!
 >
-> Enjoying my Home Assistant add-ons? A ⭐ star would be greatly appreciated!
->
-> It helps others discover my projects and motivates me to keep improving and maintaining them.
+> It helps others discover this Home Assistant repo and motivates me to keep improving and maintaining it.
 >
 > Thanks for your support!
 
